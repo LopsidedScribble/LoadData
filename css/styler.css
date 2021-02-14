@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient(90deg, rgb(157, 158, 138)4%, rgb(213, 240, 59));
+text-align: center;
+text-align: center;
+}
+
+.fullscreen {
+  display: flex;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+table {
+    margin-right:auto;
+    margin-left:auto;
+    }
+
+    .stick {
+    font-style:italic;
+    font-weight:bolder;
+    }
+    
+.button {
+    width: 130px;
+    height: 28px;
+    background-image: radial-gradient(80px, rgb(226, 233, 105),rgb(213, 240, 59));
+    border-color: rgb(64, 66, 51);
+    border-radius: 20px;
+}
+.button2 {
+    width: 150px;
+    height: 28px;
+    background-image: radial-gradient(80px, rgb(226, 233, 105),rgb(213, 240, 59));
+    border-color: rgb(64, 66, 51);
+    border-radius: 20px;
+}    
+}
